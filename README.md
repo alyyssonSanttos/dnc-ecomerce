@@ -1,4 +1,4 @@
-Link do Site => https://dnc-ecomerce.vercel.app/
+Link do Site => https://dnc-ecomerce.netlify.app/
 
 # React + Vite
 
